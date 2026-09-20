@@ -1,3 +1,13 @@
+# Generated data
+seminar_1/data/
+
+# Generated graphs
+seminar_1/graph_with_detach
+seminar_1/graph_without_detach
+seminar_1/graph_with_detach.png
+seminar_1/graph_without_detach.png
+
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
